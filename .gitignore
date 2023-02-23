@@ -51,3 +51,9 @@ docs/_build/
 
 # ipynb checkpoints
 .ipynb_checkpoints
+
+# ignore this file too
+.gitignore
+
+# ignore any images
+*.png
